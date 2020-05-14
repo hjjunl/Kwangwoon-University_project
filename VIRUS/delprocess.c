@@ -7,7 +7,7 @@
 #include <unistd.h>
 #include <syslog.h>
 
-int main()
+int main()//pid입력시 해당 프로그램 
 {
 int N;
 pid_t pid;
