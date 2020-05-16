@@ -7,3 +7,4 @@ I saved them in the zip files. You will be able to find the files you want if yo
 -Account Book: A simple account book made in C# and also consists simple UI.
 -stackCalculator: A calculator made in C++ mainly fucntion in stack.
 -VectorC++: A vector fucntion I made. Which is same as original vector at c++
+-A simple bulls and cows game (baseball game) You have to write the additional header file to make it work
